@@ -5,12 +5,11 @@
       "name": "bluetooth mouse",
       "status": true,
       "price": "5700",
-      "category": "gadget",
-      
+      "category": "gadget"
+    }
   ],
   
   "profile": {
     "name": "typicode"
   }
 }
-
