@@ -5,7 +5,8 @@
       "name": "bluetooth mouse",
       "status": true,
       "price": "5700",
-      "category": "gadget"
+      "category": "gadget",
+      "description": "This item is a world class item"
     }
   ],
   
