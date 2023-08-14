@@ -7,14 +7,13 @@
       "price": "5700",
       "category": "gadget",
       "description": "Rechargeable Wireless Computer Mouse This USB LED wireless mouse has a built in rechargeable 500mA battery If fully charged it can be used for about 3 weeks if the battery is low the mouse light turns off and the cursor movement slows down or does not move. Please charge in time Of course this mouse also has an automatic power saving function After the mouse is powered on for 8 minutes if not in use it will enter sleep mode"
-    }, {
-      "id": 2,
-      "name": "car charger",
-      "status": true,
-      "price": "1700",
-      "category": "gadget",
-      "description": "Rechargeable Wireless Computer Mouse  This USB LED wireless mouse has a built-in rechargeable 500mA battery If fully charged it can be used for about 3 weeks; if the battery is low, the mouse light turns off and the cursor movement slows down or does not move Please charge in time Of course this mouse also has an automatic power saving function After the mouse is powered on for 8 minutes if not in use it will enter sleep mode"
-    }
+    }, { "id": 2, "name": "nivea lotion", "status": true, "price": "3500", "category": "body", "description": "NIVEA Nourishing Cocoa Body Lotion provides 48h nourishing deep moisture care and noticeably smoother skin The patented formula is using the knowledge that our skin contains sufficient moisture in its deeper layers The unique composition of skin own moisturizer moisture locking lipids and care providing oils bind and hold water in the skin thus the moisture cannot evaporate easily into the surrounding area The skin is well protected from drying out because water loss is reduced and the moisture level of the skin is increased.\" },
+    { "id": 3, "name": "nexus air conditioner", "status": true, "price": "240000", "category": "electronics", "description": "The Nexus 1HP Split Air Conditioner has a durable design it is very efficient and reliable too lt also comes in an elegant and compact design The amazing split unit AC operates quietly and it gets the room cool and fresh almost immediately you switch it on It delivers top performance at all times due to its high efficiency internal lead copper pipe" },
+    { "id": 4, "name": "biovre uv spf", "status": true, "price": "5000", "category": "body", "description": "This thirst quenching watery essence intensely moisturizes all skin types and floods parched cells with long lasting hydration while granting skin water and sweat resistant SPF 50 sun protection" },
+    { "id": 5, "name": "oraimo freepods", "status": true, "price": "15000", "category": "mobile accessories", "description": "With an oraimo exclusive chip FreePods Lite is small in size but has a long playtime Now you can enjoy up to 40 hours of uninterrupted music" },
+    { "id": 6, "name": "silicone phone case", "status": true, "price": "3500", "category": "mobile accessories", "description": "The iPhone silicone case has a premium build that ensures it lasts for a long time This iPhone case looks attractive in its black silicon color finish The iPhone Silicone Case gives your mobile handset a stylish look and protects it from unwanted damage" },
+    { "id": 7, "name": "binatone rechargeable standing fan", "status": true, "price": "95000", "category": "electronics", "description": "Create a welcomiing ambience at home and at work with the Binatone range of premium fans all available at pocket-friendly prices" },
+    { "id": 8, "name": "johnny walker gin", "status": true, "price": "25000", "category": "liquor", "description": "Johnnie Walker Gold Label Reserve  Premium Blended Scotch WhiskyJohnnie Walker Gold Label Reserve is an ode to celebration a personal creation of master blender Jim Beveridge to share unforgettable nights with special friends" }
   ],
   
   "profile": {
