@@ -7,6 +7,13 @@
       "price": "5700",
       "category": "gadget",
       "description": "This item is a world class item"
+    }, {
+      "id": 2,
+      "name": "car charger",
+      "status": true,
+      "price": "1700",
+      "category": "gadget",
+      "description": "This item is a world class item"
     }
   ],
   
