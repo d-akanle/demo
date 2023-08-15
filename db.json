@@ -6,7 +6,14 @@
       "status": true,
       "price": "5700",
       "category": "gadget"      
-    }     
+    },
+      {
+      "id": 2,
+      "name": "bluetooth mouse",
+      "status": true,
+      "price": "5700",
+      "category": "gadget"      
+    }  
   ],
   
   "profile": {
