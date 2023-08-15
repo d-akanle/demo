@@ -9,52 +9,59 @@
     },
       {
       "id": 2,
-      "name": "bluetooth mouse",
+      "name": "nexus air conditioner",
       "status": true,
-      "price": "5700",
-      "category": "gadget"      
+      "price": "240000",
+      "category": "electronics",
+        "description": "The Nexus 1HP Split Air Conditioner has a durable design it is very efficient and reliable too lt also comes in an elegant and compact design The amazing split unit AC operates quietly and it gets the room cool and fresh almost immediately you switch it on It delivers top performance at all times due to its high efficiency internal lead copper pipe"
     }  ,
     {
       "id": 3,
-      "name": "bluetooth mouse",
+      "name": "oraimo freepods",
       "status": true,
-      "price": "5700",
-      "category": "gadget"      
+      "price": "17000",
+      "category": "mobile accessories" ,
+      "description": "With an oraimo exclusive chip FreePods Lite is small in size but has a long playtime Now you can enjoy up to 40 hours of uninterrupted music"
     },
     {
       "id": 4,
-      "name": "bluetooth mouse",
+      "name": "biovre uv spf",
       "status": true,
-      "price": "5700",
-      "category": "gadget"      
+      "price": "5200",
+      "category": "body" ,
+       "description": "This thirst quenching watery essence intensely moisturizes all skin types and floods parched cells with long lasting hydration while granting skin water and sweat resistant SPF 50 sun protection"
     }  ,
     {
       "id": 5,
-      "name": "bluetooth mouse",
+      "name": "silicone phone case",
       "status": true,
-      "price": "5700",
-      "category": "gadget"      
+      "price": "3000",
+      "category": "mobile accessories",
+      "description": "The iPhone silicone case has a premium build that ensures it lasts for a long time This iPhone case looks attractive in its black silicon color finish The iPhone Silicone Case gives your mobile handset a stylish look and protects it from unwanted damage"
     },
     {
       "id": 6,
-      "name": "bluetooth mouse",
+      "name": "binatone rechargeable standing fan",
       "status": true,
-      "price": "5700",
-      "category": "gadget"      
+      "price": "95000",
+      "category": "electronics"  ,
+      "description": "Create a welcomiing ambience at home and at work with the Binatone range of premium fans all available at pocket-friendly prices"
     }  ,
     {
       "id": 7,
-      "name": "bluetooth mouse",
+      "name": "johnny walker gin",
       "status": true,
-      "price": "5700",
-      "category": "gadget"      
+      "price": "25000",
+      "category": "liquor" ,
+      "description": "Johnnie Walker Gold Label Reserve  Premium Blended Scotch WhiskyJohnnie Walker Gold Label Reserve is an ode to celebration a personal creation of master blender Jim Beveridge to share unforgettable nights with special friends"
     }  ,
     {
       "id": 8,
       "name": "nivea body lotion",
       "status": true,
-      "price": "5700",
-      "category": "body"      
+      "price": "4500",
+      "category": "body",
+       "description": "Nivea nourishing cocoa body lotion provides 48h nourishing deep moisture care and noticeably smoother skin The patented formula is using the knowledge that our skin contains sufficient moisture in its deeper layers"
     }  
   ],
   
