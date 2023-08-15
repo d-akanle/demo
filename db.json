@@ -13,6 +13,48 @@
       "status": true,
       "price": "5700",
       "category": "gadget"      
+    }  ,
+    {
+      "id": 3,
+      "name": "bluetooth mouse",
+      "status": true,
+      "price": "5700",
+      "category": "gadget"      
+    },
+    {
+      "id": 4,
+      "name": "bluetooth mouse",
+      "status": true,
+      "price": "5700",
+      "category": "gadget"      
+    }  ,
+    {
+      "id": 5,
+      "name": "bluetooth mouse",
+      "status": true,
+      "price": "5700",
+      "category": "gadget"      
+    },
+    {
+      "id": 6,
+      "name": "bluetooth mouse",
+      "status": true,
+      "price": "5700",
+      "category": "gadget"      
+    }  ,
+    {
+      "id": 7,
+      "name": "bluetooth mouse",
+      "status": true,
+      "price": "5700",
+      "category": "gadget"      
+    }  ,
+    {
+      "id": 8,
+      "name": "bluetooth mouse",
+      "status": true,
+      "price": "5700",
+      "category": "gadget"      
     }  
   ],
   
