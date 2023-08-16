@@ -76,18 +76,22 @@
   "category": [
     {
       "id": 1,
+      "label":"all",
       "type": "all"
     },
     {
       "id": 2,
+      "label":"body",
       "type": "body"
     },
     {
       "id": 3,
+      "label":"groceries",
       "type": "groceries"
     },
     {
       "id": 4,
+      "label":"soft drinks",
       "type": "soft drinks"
     },
     {
@@ -96,14 +100,17 @@
     },
     {
       "id": 6,
+      "label":"wears",
       "type": "wears"
     },
     {
       "id": 7,
+      "label":"electronics",
       "type": "electronics"
     },
     {
       "id": 8,
+      "label":"beverages",
       "type": "beverages"
     }
   ],
