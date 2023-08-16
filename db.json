@@ -73,7 +73,40 @@
       "description": "Nivea nourishing cocoa body lotion provides 48h nourishing deep moisture care and noticeably smoother skin The patented formula is using the knowledge that our skin contains sufficient moisture in its deeper layers"
     }
   ],
-  
+  "category": [
+    {
+      "id": 1,
+      "type": "all"
+    },
+    {
+      "id": 2,
+      "type": "body"
+    },
+    {
+      "id": 3,
+      "type": "groceries"
+    },
+    {
+      "id": 4,
+      "type": "soft drinks"
+    },
+    {
+      "id": 5,
+      "type": "drugs"
+    },
+    {
+      "id": 6,
+      "type": "wears"
+    },
+    {
+      "id": 7,
+      "type": "electronics"
+    },
+    {
+      "id": 8,
+      "type": "beverages"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
