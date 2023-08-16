@@ -96,6 +96,7 @@
     },
     {
       "id": 5,
+      "label":"drugs",
       "type": "drugs"
     },
     {
