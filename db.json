@@ -1,6 +1,7 @@
 {
   "products": [
     {
+      "id":1,
       "group": "flash sales",
       "items": [
         {
@@ -78,6 +79,7 @@
       ],
     },
      {
+       "id":2,
       "group": "new $ noteworthy",
       "items": [
         {
