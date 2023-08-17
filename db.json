@@ -76,6 +76,83 @@
           "description": "Nivea nourishing cocoa body lotion provides 48h nourishing deep moisture care and noticeably smoother skin The patented formula is using the knowledge that our skin contains sufficient moisture in its deeper layers"
         }
       ],
+    },
+     {
+      "group": "new $ noteworthy",
+      "items": [
+        {
+          "id": 1,
+          "name": "bluetooth mouse",
+          "image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/U/D/178738_1647075048.jpg",
+          "status": true,
+          "price": "5700",
+          "category": "gadgets",
+          "description": "This USB LED wireless mouse has a built-in rechargeable 500mA battery that if fully charged it can be used for about 3 weeks"
+        },
+        {
+          "id": 2,
+          "name": "nexus air conditioner",
+          "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/92/1243821/1.jpg?2736",
+          "status": true,
+          "price": "240000",
+          "category": "electronics",
+          "description": "The Nexus 1HP Split Air Conditioner has a durable design it is very efficient and reliable too lt also comes in an elegant and compact design The amazing split unit AC operates quietly and it gets the room cool and fresh almost immediately you switch it on It delivers top performance at all times due to its high efficiency internal lead copper pipe"
+        },
+        {
+          "id": 3,
+          "name": "oraimo freepods",
+          "image": "https://dreamworksdirect.com/wp-content/uploads/2022/08/image-8-2.webp",
+          "status": true,
+          "price": "17000",
+          "category": "mobile accessories",
+          "description": "With an oraimo exclusive chip FreePods Lite is small in size but has a long playtime Now you can enjoy up to 40 hours of uninterrupted music"
+        },
+        {
+          "id": 4,
+          "name": "biore uv spf",
+          "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/7105621/1.jpg?1778",
+          "status": true,
+          "price": "5200",
+          "category": "body",
+          "description": "This thirst-quenching watery essence intensely moisturizes all skin types and floods parched cells with long-lasting hydration while granting skin water and sweat-resistant SPF 50 sun protection"
+        },
+        {
+          "id": 5,
+          "name": "silicone phone case",
+          "image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/M/A/155809_1631890047.jpg",
+          "status": true,
+          "price": "3000",
+          "category": "mobile accessories",
+          "description": "The iPhone silicone case has a premium build that ensures it lasts for a long time This iPhone case looks attractive in its black silicon color finish The iPhone Silicone Case gives your mobile handset a stylish look and protects it from unwanted damage"
+        },
+        {
+          "id": 6,
+          "name": "binatone rechargeable standing fan",
+          "image": "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/12/1643206066.webp?fit=545%2C600&ssl=1",
+          "status": true,
+          "price": "95000",
+          "category": "electronics",
+          "description": "Create a welcoming ambiance at home and at work with the Binatone range of premium fans all available at pocket-friendly prices"
+        },
+        {
+          "id": 7,
+          "name": "johnny walker gin",
+          "image": "https://barrels.ng/wp-content/uploads/2021/07/Johnnie-Walker-Red-Label-2.png",
+          "status": true,
+          "price": "25000",
+          "category": "liquor",
+          "description": "Johnnie Walker Gold Label Reserve  Premium Blended Scotch WhiskyJohnnie Walker Gold Label Reserve is an ode to celebration a personal creation of master blender Jim Beveridge to share unforgettable nights with special friends"
+        },
+        {
+          "id": 8,
+          "name": "nivea body lotion",
+          "image": "https://images-us.nivea.com/-/media/miscellaneous/media-center-items/f/c/b/354133-web_1010x1180_transparent_png.png",
+          "status": true,
+          "price": "4500",
+          "category": "body",
+          "description": "Nivea nourishing cocoa body lotion provides 48h nourishing deep moisture care and noticeably smoother skin The patented formula is using the knowledge that our skin contains sufficient moisture in its deeper layers"
+        }
+      ],
     }
   ],
   "category": [
