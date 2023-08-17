@@ -1,16 +1,18 @@
 {
   "products": [
     {
-      "group":"flash sales",
-      "items": [ 
+      "group": "flash sales",
+      "items": [
         {
-      "id": 1,
-      "name": "bluetooth mouse",
-      "image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/U/D/178738_1647075048.jpg",
-      "status": true,
-      "price": "5700",
-      "category": "gadgets",
-      "description": "This USB LED wireless mouse has a built-in rechargeable 500mA battery that if fully charged it can be used for about 3 weeks" }]
+          "id": 1,
+          "name": "bluetooth mouse",
+          "image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/U/D/178738_1647075048.jpg",
+          "status": true,
+          "price": "5700",
+          "category": "gadgets",
+          "description": "This USB LED wireless mouse has a built-in rechargeable 500mA battery that if fully charged it can be used for about 3 weeks"
+        }
+      ]
     },
     {
       "id": 2,
@@ -74,54 +76,51 @@
       "price": "4500",
       "category": "body",
       "description": "Nivea nourishing cocoa body lotion provides 48h nourishing deep moisture care and noticeably smoother skin The patented formula is using the knowledge that our skin contains sufficient moisture in its deeper layers"
-    }}]
-    
-    
-    }],
+    }
+  ],
   "category": [
     {
       "id": 1,
-      "label":"all",
+      "label": "all",
       "type": "all"
     },
     {
       "id": 2,
-      "label":"body",
+      "label": "body",
       "type": "body"
     },
     {
       "id": 3,
-      "label":"groceries",
+      "label": "groceries",
       "type": "groceries"
     },
     {
       "id": 4,
-      "label":"soft drinks",
+      "label": "soft drinks",
       "type": "soft drinks"
     },
     {
       "id": 5,
-      "label":"drugs",
+      "label": "drugs",
       "type": "drugs"
     },
     {
       "id": 6,
-      "label":"wears",
+      "label": "wears",
       "type": "wears"
     },
     {
       "id": 7,
-      "label":"electronics",
+      "label": "electronics",
       "type": "electronics"
     },
     {
       "id": 8,
-      "label":"beverages",
+      "label": "beverages",
       "type": "beverages"
     }
   ],
   "profile": {
     "name": "typicode"
   }
-},
-
+}
