@@ -12,7 +12,6 @@
           "category": "gadgets",
           "description": "This USB LED wireless mouse has a built-in rechargeable 500mA battery that if fully charged it can be used for about 3 weeks"
         }
-      ]
     },
     {
       "id": 2,
@@ -77,9 +76,10 @@
       "category": "body",
       "description": "Nivea nourishing cocoa body lotion provides 48h nourishing deep moisture care and noticeably smoother skin The patented formula is using the knowledge that our skin contains sufficient moisture in its deeper layers"
     }
+      ],
     
-  ],
-}
+    
+    }
   ],
   "category": [
     {
