@@ -199,6 +199,12 @@
       "type": "beverages"
     }
   ],
+  "user":{
+   "fullName":"",
+    "email":"",
+    "phone":"",
+    "password":""
+  }
   "profile": {
     "name": "typicode"
   }
